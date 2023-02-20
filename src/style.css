@@ -4,11 +4,6 @@ p {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-:root {
-  --diameter: 100px;
-  --stroke-width: 10px;
-}
-
 .spinner {
   animation-name: rotation;
   animation-iteration-count: infinite;
